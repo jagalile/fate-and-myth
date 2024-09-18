@@ -1,0 +1,4 @@
+[env]
+_.python.venv = { path = "~/.venvs/fate-and-myth", create = true }
+
+MISE_PYTHON_COMPILE="true"
